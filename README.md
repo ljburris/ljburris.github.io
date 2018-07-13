@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to TILE documentation
+This site is is used for new updates regarding TILE! and its related documentation. See the [Software support website](https://support.ets-lindgren.com/TILE/Pages/Home.aspx) for additional guidance from ETS-Lindgren.
 
-You can use the [editor on GitHub](https://github.com/ljburris/ljburris.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Contact Support Team
+- Email
+- Phone number
+- Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Install Guides
+1. TILE7
+    1. NI GPIB_VISA
+    2. NI LabView Runtime
+    3. NI Max
+2. TILE Executive
+3. EMCenter
+4. VisionTRX
+5. VALET
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljburris/ljburris.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Manuals
+1. TILE7
+    1. NI I/O Trace
+2. Scripting and Math
+3. Other co-programs
+    1. ETS_EMMonitor API
+    2. TILE AVL PUMA
+    3. TILE IVI 
+    4. ETS_CTInterface
+    5. Picking points from graphs with New Plot
+  
+## FAQ
+Link to document.
